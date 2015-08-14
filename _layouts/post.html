@@ -11,16 +11,16 @@ layout: default
 	</div>
 </article>
 
- <ul class="pager">
+ <ul class="pager" stytle="list-style:none;">
     {% if page.next %}
-    <li><a href="http://xiaoyu33.github.io{{ page.next.id }}" title="上一篇"> &larr; 上一篇</a></li>
+    <li style="float:left;"><a href="http://xiaoyu33.github.io{{ page.next.id }}" title="上一篇"> &larr; 上一篇</a></li>
     {% else %}
-    <li>&larr; 上一篇</li>
+    <li style="float:left;">&larr; 上一篇</li>
     {% endif %}
     {% if page.previous %}
-    <li><a  href="http://xiaoyu33.github.io{{ page.previous.id }}" title="下一篇">下一篇&rarr;</a></li>
+    <li style="float:left;"><a  href="http://xiaoyu33.github.io{{ page.previous.id }}" title="下一篇">下一篇&rarr;</a></li>
     {% else %}
-    <li>下一篇&rarr;</li>
+    <li style="float:left;">下一篇&rarr;</li>
     {% endif %}
   </ul>
 
