@@ -1,5 +1,5 @@
 ---
-title:this is xiaoyu
+title: this is xiaoyu
 ---
 
 this is xiaoyu's blog
