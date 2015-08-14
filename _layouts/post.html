@@ -11,13 +11,18 @@ layout: default
 	</div>
 </article>
 
-{{ page.next }}
-
+ <ul class="pager">
+    
+    <li><a  href="page.privious" title="Jekyll 固定链接">&larr; Prev</a></li>
+    <li><a href="page.next" title="Jekyll 的 YAML 前置数据">Next &rarr;</a></li>
+    
+  </ul>
+  
 
 <a href="javascript :;" onClick="javascript :history.back(-1);">返回上一页</a>
 
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="page.id" data-title="page.title" data-url="page.url"></div>
+	<div class="ds-thread" data-thread-key="page.id" data-title="page.title" data-url="page.path"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
