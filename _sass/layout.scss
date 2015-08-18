@@ -199,9 +199,17 @@ img[title="Emerald"] {
   }
 
 code {
+    border: none !important;
+    background-color: #333 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    margin: 1em 0 !important;
+}
+
+/*code {
   color: lighten($text-color, 35%);
   background-color: lighten($background-color, 35%);
-}
+}*/
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
 
