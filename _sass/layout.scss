@@ -24,6 +24,7 @@
 #nav {
   @include nav-position(right);
   text-align:left;   /* add */
+  padding:10px;
 }
 
 #nav-left {
