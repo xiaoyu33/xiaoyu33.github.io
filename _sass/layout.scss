@@ -25,6 +25,7 @@
   @include nav-position(right);
   text-align:left;   /* add */
   padding:10px;
+  text-overflow:ellipsis;
 }
 
 #nav-left {
@@ -35,8 +36,6 @@
 
 #nav.menu-open {
   @include open(-14rem);
-  width:100%;   /* add */
-  overflow:hidden;
 }
 
 #nav-left.menu-open-left {
