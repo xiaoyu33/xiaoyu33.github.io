@@ -1,3 +1,7 @@
 <a href="https://github.com/xiaoyu33" target="_blank">Github</a>
 <a href="https://linux.cn" target="_blank">Linux中国</a>
 <a href="https://github.com/LCTT/TranslateProject" target="_blank">LCTT翻译组</a>
+
+{% for post in paginator.posts %}
+  <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+{% endfor %}
