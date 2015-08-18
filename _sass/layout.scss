@@ -25,6 +25,7 @@
   @include nav-position(right);
   text-align:left;   /* add */
   padding:10px;
+  overflow:hidden;
 }
 
 #nav-left {
