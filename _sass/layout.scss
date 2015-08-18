@@ -23,6 +23,7 @@
 
 #nav {
   @include nav-position(right);
+  text-align:left;   /* add */
 }
 
 #nav-left {
