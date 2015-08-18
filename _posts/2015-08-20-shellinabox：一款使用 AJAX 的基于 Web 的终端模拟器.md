@@ -2,11 +2,11 @@
 title: shellinabox：一款使用 AJAX 的基于 Web 的终端模拟器
 ---
 
+> 这个 **Shell In A Box**，发音是**shellinabox**，是由**Markus Gutschke**开发的一款自由开源的基于Web的Ajax的终端模拟器。它使用AJAX技术，通过Web浏览器提供了类似原生的 Shell 的外观和感受。
+
 ### shellinabox简介 ###
 
 通常情况下，我们在访问任何远程服务器时，会使用常见的通信工具如OpenSSH和Putty等。但是，有可能我们在防火墙后面不能使用这些工具访问远程系统，或者防火墙只允许HTTPS流量才能通过。不用担心！即使你在这样的防火墙后面，我们依然有办法来访问你的远程系统。而且，你不需要安装任何类似于OpenSSH或Putty的通讯工具。你只需要有一个支持JavaScript和CSS的现代浏览器，并且你不用安装任何插件或第三方应用软件。
-
-这个 **Shell In A Box**，发音是**shellinabox**，是由**Markus Gutschke**开发的一款自由开源的基于Web的Ajax的终端模拟器。它使用AJAX技术，通过Web浏览器提供了类似原生的 Shell 的外观和感受。
 
 这个**shellinaboxd**守护进程实现了一个Web服务器，能够侦听指定的端口。其Web服务器可以发布一个或多个服务，这些服务显示在用 AJAX Web 应用实现的VT100模拟器中。默认情况下，端口为4200。你可以更改默认端口到任意选择的任意端口号。在你的远程服务器安装shellinabox以后，如果你想从本地系统接入，打开Web浏览器并导航到：**http://IP-Address:4200/**。输入你的用户名和密码，然后就可以开始使用你远程系统的Shell。看起来很有趣，不是吗？确实 有趣！
 
