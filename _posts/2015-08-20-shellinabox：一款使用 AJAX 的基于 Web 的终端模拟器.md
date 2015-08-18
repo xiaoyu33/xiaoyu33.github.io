@@ -1,5 +1,5 @@
 ---
-title: shellinabox：基于Web的Ajax的终端模拟器安装及使用详解
+title: shellinabox：一款使用 AJAX 的基于 Web 的终端模拟器
 ---
 
 ### shellinabox简介 ###
