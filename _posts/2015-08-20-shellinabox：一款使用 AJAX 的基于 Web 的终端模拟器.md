@@ -149,10 +149,10 @@ shellinabox在默认库是可用的。所以，你可以使用命令来安装它
 via: http://www.unixmen.com/shellinabox-a-web-based-ajax-terminal-emulator/
 
 作者：[SK][a]
-译者：[xiaoyu33](https://github.com/xiaoyu33)
+译者：[潘晓宇](https://github.com/xiaoyu33)
 校对：[wxy](https://github.com/wxy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创翻译，[Linux中国](http://linux.cn/) 荣誉推出
+本文由 [潘晓宇](https://github.com/LCTT/TranslateProject) 原创翻译，[Linux中国](http://linux.cn/) 荣誉推出
 
 [a]:http://www.unixmen.com/author/sk/
 [1]:https://code.google.com/p/shellinabox/wiki/shellinaboxd_man
