@@ -90,10 +90,10 @@ tickr自带的有超过30种不同的资讯列表，从技术博客到主流新�
 via: http://www.omgubuntu.co.uk/2015/06/tickr-open-source-desktop-rss-news-ticker
 
 作者：[Joey-Elijah Sneddon][a]
-译者：[xiaoyu33](https://github.com/xiaoyu33)
+译者：[潘晓宇](https://github.com/xiaoyu33)
 校对：[wxy](https://github.com/wxy)
 
-本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创翻译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [潘晓宇](https://github.com/LCTT/TranslateProject) 原创翻译，[Linux中国](https://linux.cn/) 荣誉推出
 
 [a]:https://plus.google.com/117485690627814051450/?rel=author
 [1]:apt://tickr
