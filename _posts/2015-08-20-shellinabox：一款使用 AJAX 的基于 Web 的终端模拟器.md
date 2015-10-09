@@ -1,5 +1,5 @@
 ---
-title: shellinabox：一款使用 AJAX 的基于 Web 的终端模拟器
+title: shellinabox：一款使用 AJAX 的基于 Web 的终端模拟器[英译汉]
 ---
 
 > 这个 **Shell In A Box**，发音是**shellinabox**，是由**Markus Gutschke**开发的一款自由开源的基于Web的Ajax的终端模拟器。它使用AJAX技术，通过Web浏览器提供了类似原生的 Shell 的外观和感受。
