@@ -1,5 +1,5 @@
 ---
-title: Trickr：一个开源的Linux桌面RSS新闻速递
+title: Trickr：一个开源的Linux桌面RSS新闻速递[英译汉]
 ---
 
 > Tick是一个基于GTK的Linux桌面新闻速递，能够在水平带滚动显示最新头条新闻，以及你最爱的RSS资讯文章标题，当然你可以放置在你桌面的任何地方。
